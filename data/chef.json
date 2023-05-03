@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Chef Umberto Bombana",
+        "photo": "https://static.bangkokpost.com/media/content/dcx/2016/07/01/1852297.jpg",
+        "description": "He is an Italian chef who runs a Michelin-starred restaurant called 8 1/2 Otto e Mezzo Bombana in Hong Kong. One of the dishes he is known for is the Lobster Linguine, which combines Italian pasta with Asian flavors like ginger and scallions",
+        "experience": "8",
+        "like": "120"
+    },
+    {
+        "id": 2,
+        "name": "Chef Pino Lavarra",
+        "photo": "https://d12eu00glpdtk2.cloudfront.net/public/images/news/_760x500_clip_center-center_none/WhatsApp-Image-2019-10-13-at-11.34.56-AM.jpeg",
+        "description": "He is another Italian chef who has made a name for himself in Asia, specifically in Shanghai where he runs a restaurant called The Ritz-Carlton. His signature dish is the Black Truffle Risotto, which he prepares with Chinese black truffles and parmesan cheese",
+        "experience": "9",
+        "like": "100"
+    },
+    {
+        "id": 3,
+        "name": "Chef Francesco Sanna",
+        "photo": "https://www.cameraitacina.com/sites/default/files/649363395.jpg",
+        "description": "He is the head chef at Tosca di Angelo, an Italian restaurant located in the luxurious Ritz-Carlton hotel in Macau. One of his specialties is the Spaghetti alla Chitarra, which is a homemade pasta dish served with spicy tomato sauce, prawns, and clams",
+        "experience": "6",
+        "like": "90"
+    },
+    {
+        "id": 4,
+        "name": "Chef Paolo Monti",
+        "photo": "https://www.gamberorossointernational.com/wp-content/uploads/2020/11/paolo-monti-1.jpg",
+        "description": "He is an Italian chef who has been living and working in Beijing for over 20 years. He is the owner of Opera Bombana, a fine-dining restaurant that serves Italian cuisine with a Chinese twist. One of his most popular dishes is the Wagyu Beef Ravioli, which is served in a savory mushroom broth.",
+        "experience": "20",
+        "like": "190"
+    },
+    {
+        "id": 5,
+        "name": "Chef Fabio Trabocchi",
+        "photo": "https://images.squarespace-cdn.com/content/v1/5ac3d2a08ab7224b0beab9e3/2da4bd1c-8c37-4cb9-813d-4a95c55af6d3/Fabio+Trabocchi.jpg?format=1000w",
+        "description": "He is an Italian chef who has won multiple James Beard Awards for his culinary creations. He currently runs a restaurant called Fiola in Washington D.C., where he combines Italian and Spanish flavors with Asian ingredients. One of his standout dishes is the Sea Urchin Risotto, which features creamy rice topped with fresh uni",
+        "experience": "20",
+        "like": "190"
+    },
+    {
+        "id": 6,
+        "name": "Chef Cristina Bowerman",
+        "photo": "https://www.deliciousitaly.com/media/k2/items/cache/b28cbe6511a4db9839d58c5beb3f657f_XL.jpg",
+        "description": " She is an Italian chef who runs a restaurant called Glass Hostaria in Rome. She is known for her innovative approach to Italian cuisine, which often incorporates flavors and techniques from other culinary traditions. One of her most popular dishes is the Shrimp and Pork Dumplings, which are steamed and served with a spicy sauce",
+        "experience": "14",
+        "like": "340"
+    }
+]
